@@ -18,7 +18,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/your-username/imc-demo.git
+git clone https://github.com/minakamiyuk-dotcom/imc-demo
 cd imc-demo
 pip install -r requirements.txt
 python main.py
