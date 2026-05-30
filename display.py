@@ -175,7 +175,7 @@ def run_demo(speed: float = 1.5):
     console.print(render_summary(trad, imc))
     console.print(
         "\n[bold cyan]停机是放弃控制，裁剪是保留控制。[/]\n"
-        "[dim]专利号：2026107014489 | GitHub: github.com/your-username/imc-demo[/]\n"
+        "[dim]IMC 芯片专利（已提交） | GitHub: github.com/your-username/imc-demo[/]\n"
     )
     console.print("[dim]按 Enter 退出...[/]")
     input()
